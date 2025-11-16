@@ -58,7 +58,7 @@ Students can download assignment given by their teacher and can submit their wor
 
 ### Assignment submission by students
 Teacher can check submissions made by their students  and can give them marks for that.
-![classmanager-submissionlist](https://user-images.githubusercontent.com/59278577/85335777-2e039880-b4fb-11ea-8d7d-0edc517ac11e.PNG)
+
 
 Class Manager uses the multi-user concept of Django where student and teacher are different types of user and have different functionalities.
 Also adding features like notice, messages, Assignment, adding students to the class etc. requires a lot of Django concepts.
