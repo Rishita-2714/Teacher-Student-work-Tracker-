@@ -54,7 +54,6 @@ Here, teachers can see all the marks given by them to a particular student of he
 ### Assignments uploaded by teacher
 Students can download assignment given by their teacher and can submit their work too.
 
-![classmanager-assignmentpage](https://user-images.githubusercontent.com/59278577/85335929-6c995300-b4fb-11ea-883d-48ab096dd89a.PNG)
 
 ### Assignment submission by students
 Teacher can check submissions made by their students  and can give them marks for that.
